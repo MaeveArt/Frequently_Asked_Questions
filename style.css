@@ -64,7 +64,8 @@ body{
    margin-left: 20%;
 }
 .areaTwo p3 {
-   text-align: center;
+    text-align: center;
+    margin-left: 5%;
     font-style: italic;
     color: #fff;
     font-size: 20px;
